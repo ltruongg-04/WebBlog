@@ -1,7 +1,7 @@
 ---
-title: "Hệ thống phân tán"
-date: "2025-04-28"
-updated: "2025-04-28"
+title: "Automatic"
+date: "2023-10-26"
+updated: "2023-10-26"
 categories:
   - "sveltekit"
   - "markdown"
@@ -12,7 +12,7 @@ excerpt: Check out how heading links work with this starter in this post.
 ---
 
 Here are some headings:
-Abc
+
 ## Here's an h2
 
 Lorem ipsum dolor sit amet
