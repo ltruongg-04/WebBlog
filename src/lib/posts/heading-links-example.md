@@ -2,8 +2,14 @@
 title: "Hệ thống phân tán"
 date: "2025-04-28"
 updated: "2025-04-28"
+categories:
+  - "sveltekit"
+  - "markdown"
+coverImage: "/images/jefferson-santos-fCEJGBzAkrU-unsplash.jpg"
+coverWidth: 16
+coverHeight: 9
+excerpt: Check out how heading links work with this starter in this post.
 ---
-
 # 1. Hệ thống phân tán là gì?
 
 Hệ thống phân tán (Distributed System) là tập hợp các máy tính độc lập, phối hợp với nhau để đạt được một mục tiêu chung, được người dùng nhìn nhận như một hệ thống thống nhất. Các thành phần trong hệ thống này giao tiếp qua mạng và phối hợp để thực hiện các tác vụ.
