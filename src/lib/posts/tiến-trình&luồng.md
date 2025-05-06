@@ -81,7 +81,8 @@ Tuy nhiên, nếu vượt 80–90% RAM sẽ bắt đầu swap sang ổ cứng (v
 | 12      | Blockchain node           |  Validate block          |  Node process riêng            |
 
 # 3. Bài toán ứng dụng Thread, Process
-![Markdown](static/images/bai3.jpg)
+![Bài toán ứng dụng Thread, Process](/images/bai3.jpg)
+
 
 
 # 4. ChatGPT và hệ thống phân tán khi huấn luyện
