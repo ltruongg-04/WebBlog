@@ -11,6 +11,8 @@ coverHeight: 9
 excerpt: Check out how heading links work with this starter in this post.
 ---
 # 1. Phân tích hiệu năng của máy laptop
+![CPU, GPU, RAM](/images/cpu.png)
+
 ## 1. CPU (Bộ vi xử lý)
 
 - Intel Core i5-12450HX (12th Gen, Alder Lake)
@@ -65,6 +67,7 @@ RAM lớn → chạy tốt các task nhiều dữ liệu, nhiều tab, nhiều a
 
 Tuy nhiên, nếu vượt 80–90% RAM sẽ bắt đầu swap sang ổ cứng (virtual memory), làm chậm hệ thống
 # 2. Nghiên cứu các bài toán phổ biến trong ngành CNTT sử dụng đa luồng, đa tiến trình
+
 | **STT** | **Bài toán**              | **Dùng đa luồng (Thread)** | **Dùng đa tiến trình (Process)** |
 | ------- | ------------------------- | -------------------------- | -------------------------------- |
 | 1       | Web server                |  Xử lý nhiều request     |  Process pool tránh crash      |
