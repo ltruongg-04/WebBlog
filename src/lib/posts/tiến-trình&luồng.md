@@ -5,7 +5,7 @@ updated: "2025-05-05"
 categories:
   - "sveltekit"
   - "markdown"
-coverImage: "/images/1.jpg"
+coverImage: "/images/tientrinh&luong.jpg"
 coverWidth: 16
 coverHeight: 9
 excerpt: Check out how heading links work with this starter in this post.
