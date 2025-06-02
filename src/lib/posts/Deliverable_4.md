@@ -1,7 +1,7 @@
 ---
 title: "Deliverable_4: Phát triển website bán hàng sử dụng thư viện Memcached"
-date: "2025-1-6"
-updated: "2025-1-6"
+date: "2025-6-1"
+updated: "2025-6-1"
 categories:
   - "sveltekit"
   - "markdown"
@@ -12,7 +12,7 @@ coverHeight: 9
 excerpt: Phát triển website bán hàng sử dụng thư viện Memcached
 ---
 
-Lê Tiến Nhạc - 22010108
+Nguyễn Lê Trường - 2201033022010330
 
 # Đề tài: Tối ưu hóa hiệu suất hệ thống web bán hàng phân tán sử dụng Memcached
 ## Mục đích
